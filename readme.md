@@ -170,6 +170,7 @@ MLDL_FloodDetection/
 │   └── FloodNet/
 │       ├── images/         # RGB aerial imagery
 │       └── annotations/    # RGB semantic masks
+├── results/                # All images
 ├── update1/
 │   └── flood_segmentation_unet.ipynb
 ├── update2/
